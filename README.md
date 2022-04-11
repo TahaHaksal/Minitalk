@@ -31,4 +31,4 @@ Requirements:
 Goal of the project:
 	-Learn how Linux signals work.
 	-Solve the problem of using only signals to communicate a string.
-	-Learn how Char and unsigned Chars work in byte and form.
+	-Learn how Char and unsigned Chars work in byte form.
